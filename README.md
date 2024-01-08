@@ -14,6 +14,6 @@ I'm Aryani Puspitasari, and this is my space on GitHub where I'm crafting my jou
 
 📫 How to Reach Me: Feel free to connect with me on LinkedIn [https://www.linkedin.com/in/aryani-puspitasari-42450b273/] or drop me an email at [aryanipuspitasari92@gmail.com].
 
-⚡ Fun Fact: I speak English, Bahasa Indonesia, and Javanese fluently, adding a unique touch to my multicultural journey.
+⚡ Fun Fact: I speak good English, Bahasa Indonesia, and Javanese fluently, adding a unique touch to my multicultural journey. I hold a B2 German language proficiency certificate and have a background in Japanese Literature.
 
 This repository is more than just code; it's a narrative of growth, challenges embraced, and the excitement of possibilities. Let's connect, collaborate, and create something meaningful together! 🚀
